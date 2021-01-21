@@ -1,0 +1,4 @@
+#Tue Apr 02 23:35:17 BDT 2019
+base.0=G\:\\Event Reminder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=G\:\\Event Reminder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

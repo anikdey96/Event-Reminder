@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "G:\\AlarmReminder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_add_alert_black_24dp.png",
+        "source": "G:\\AlarmReminder-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add_alert_black_24dp.png"
+    },
+    {
+        "merged": "G:\\AlarmReminder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_sync_grey600_24dp.png",
+        "source": "G:\\AlarmReminder-master\\app\\src\\main\\res\\drawable-mdpi\\ic_sync_grey600_24dp.png"
+    },
+    {
+        "merged": "G:\\Event Reminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_add.png",
+        "source": "G:\\Event Reminder\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add.png"
+    },
+    {
+        "merged": "G:\\AlarmReminder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_add.png",
+        "source": "G:\\AlarmReminder-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add.png"
+    },
+    {
+        "merged": "G:\\Event Reminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_access_time_grey600_24dp.png",
+        "source": "G:\\Event Reminder\\app\\src\\main\\res\\drawable-mdpi\\ic_access_time_grey600_24dp.png"
+    },
+    {
+        "merged": "G:\\Event Reminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_alarm_on_white_24dp.png",
+        "source": "G:\\Event Reminder\\app\\src\\main\\res\\drawable-mdpi\\ic_alarm_on_white_24dp.png"
+    },
+    {
+        "merged": "G:\\AlarmReminder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_person_add_black_24dp.png",
+        "source": "G:\\AlarmReminder-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_person_add_black_24dp.png"
+    },
+    {
+        "merged": "G:\\Event Reminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_notifications_on_white_24dp.png",
+        "source": "G:\\Event Reminder\\app\\src\\main\\res\\drawable-mdpi\\ic_notifications_on_white_24dp.png"
+    },
+    {
+        "merged": "G:\\Event Reminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_view_day_grey600_24dp.png",
+        "source": "G:\\Event Reminder\\app\\src\\main\\res\\drawable-mdpi\\ic_view_day_grey600_24dp.png"
+    },
+    {
+        "merged": "G:\\Event Reminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_check_white_24dp.png",
+        "source": "G:\\Event Reminder\\app\\src\\main\\res\\drawable-mdpi\\ic_check_white_24dp.png"
+    },
+    {
+        "merged": "G:\\AlarmReminder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_notifications_off_grey600_24dp.png",
+        "source": "G:\\AlarmReminder-master\\app\\src\\main\\res\\drawable-mdpi\\ic_notifications_off_grey600_24dp.png"
+    },
+    {
+        "merged": "G:\\AlarmReminder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_notifications_on_white_24dp.png",
+        "source": "G:\\AlarmReminder-master\\app\\src\\main\\res\\drawable-mdpi\\ic_notifications_on_white_24dp.png"
+    },
+    {
+        "merged": "G:\\AlarmReminder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_access_time_grey600_24dp.png",
+        "source": "G:\\AlarmReminder-master\\app\\src\\main\\res\\drawable-mdpi\\ic_access_time_grey600_24dp.png"
+    },
+    {
+        "merged": "G:\\AlarmReminder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_alarm_on_white_24dp.png",
+        "source": "G:\\AlarmReminder-master\\app\\src\\main\\res\\drawable-mdpi\\ic_alarm_on_white_24dp.png"
+    },
+    {
+        "merged": "G:\\Event Reminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_sync_grey600_24dp.png",
+        "source": "G:\\Event Reminder\\app\\src\\main\\res\\drawable-mdpi\\ic_sync_grey600_24dp.png"
+    },
+    {
+        "merged": "G:\\Event Reminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_notifications_off_grey600_24dp.png",
+        "source": "G:\\Event Reminder\\app\\src\\main\\res\\drawable-mdpi\\ic_notifications_off_grey600_24dp.png"
+    },
+    {
+        "merged": "G:\\Event Reminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_add_alert_black_24dp.png",
+        "source": "G:\\Event Reminder\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add_alert_black_24dp.png"
+    },
+    {
+        "merged": "G:\\Event Reminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_person_add_black_24dp.png",
+        "source": "G:\\Event Reminder\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_person_add_black_24dp.png"
+    },
+    {
+        "merged": "G:\\AlarmReminder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_check_white_24dp.png",
+        "source": "G:\\AlarmReminder-master\\app\\src\\main\\res\\drawable-mdpi\\ic_check_white_24dp.png"
+    },
+    {
+        "merged": "G:\\Event Reminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_subject_grey600_24dp.png",
+        "source": "G:\\Event Reminder\\app\\src\\main\\res\\drawable-mdpi\\ic_subject_grey600_24dp.png"
+    },
+    {
+        "merged": "G:\\AlarmReminder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_view_day_grey600_24dp.png",
+        "source": "G:\\AlarmReminder-master\\app\\src\\main\\res\\drawable-mdpi\\ic_view_day_grey600_24dp.png"
+    },
+    {
+        "merged": "G:\\AlarmReminder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_delete_white_24dp.png",
+        "source": "G:\\AlarmReminder-master\\app\\src\\main\\res\\drawable-mdpi\\ic_delete_white_24dp.png"
+    },
+    {
+        "merged": "G:\\AlarmReminder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_subject_grey600_24dp.png",
+        "source": "G:\\AlarmReminder-master\\app\\src\\main\\res\\drawable-mdpi\\ic_subject_grey600_24dp.png"
+    },
+    {
+        "merged": "G:\\Event Reminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_unfold_more_grey600_24dp.png",
+        "source": "G:\\Event Reminder\\app\\src\\main\\res\\drawable-mdpi\\ic_unfold_more_grey600_24dp.png"
+    },
+    {
+        "merged": "G:\\AlarmReminder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_unfold_more_grey600_24dp.png",
+        "source": "G:\\AlarmReminder-master\\app\\src\\main\\res\\drawable-mdpi\\ic_unfold_more_grey600_24dp.png"
+    },
+    {
+        "merged": "G:\\Event Reminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_delete_white_24dp.png",
+        "source": "G:\\Event Reminder\\app\\src\\main\\res\\drawable-mdpi\\ic_delete_white_24dp.png"
+    }
+]

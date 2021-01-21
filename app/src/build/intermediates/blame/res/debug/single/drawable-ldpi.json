@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "G:\\AlarmReminder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_person_add_black_24dp.png",
+        "source": "G:\\AlarmReminder-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_person_add_black_24dp.png"
+    },
+    {
+        "merged": "G:\\AlarmReminder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_add.png",
+        "source": "G:\\AlarmReminder-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_add.png"
+    },
+    {
+        "merged": "G:\\Event Reminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_person_add_black_24dp.png",
+        "source": "G:\\Event Reminder\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_person_add_black_24dp.png"
+    },
+    {
+        "merged": "G:\\Event Reminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_add.png",
+        "source": "G:\\Event Reminder\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_add.png"
+    },
+    {
+        "merged": "G:\\Event Reminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_add_alert_black_24dp.png",
+        "source": "G:\\Event Reminder\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_add_alert_black_24dp.png"
+    },
+    {
+        "merged": "G:\\AlarmReminder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_add_alert_black_24dp.png",
+        "source": "G:\\AlarmReminder-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_add_alert_black_24dp.png"
+    }
+]

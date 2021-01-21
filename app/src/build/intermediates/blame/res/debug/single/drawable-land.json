@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\AlarmReminder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land\\mdtp_done_background_color.xml",
+        "source": "G:\\AlarmReminder-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.2.1\\res\\drawable-land\\mdtp_done_background_color.xml"
+    },
+    {
+        "merged": "G:\\Event Reminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land\\mdtp_done_background_color.xml",
+        "source": "G:\\Event Reminder\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.2.1\\res\\drawable-land\\mdtp_done_background_color.xml"
+    },
+    {
+        "merged": "G:\\AlarmReminder-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land\\mdtp_done_background_color_dark.xml",
+        "source": "G:\\AlarmReminder-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.2.1\\res\\drawable-land\\mdtp_done_background_color_dark.xml"
+    },
+    {
+        "merged": "G:\\Event Reminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land\\mdtp_done_background_color_dark.xml",
+        "source": "G:\\Event Reminder\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.2.1\\res\\drawable-land\\mdtp_done_background_color_dark.xml"
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "outputFile": "G:\\AlarmReminder-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w270dp-h560dp-v13\\values-w270dp-h560dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "G:\\AlarmReminder-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.2.1\\res\\values-w270dp-h560dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 68,
+                        "endOffset": 287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endColumn": 59,
+                    "endOffset": 179
+                },
+                "from": {
+                    "file": "G:\\AlarmReminder-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.2.1\\res\\values-w270dp-h560dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 59,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 184,
+                    "endColumn": 60,
+                    "endOffset": 240
+                },
+                "from": {
+                    "file": "G:\\AlarmReminder-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.2.1\\res\\values-w270dp-h560dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 352,
+                        "endColumn": 60,
+                        "endOffset": 408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 245,
+                    "endColumn": 59,
+                    "endOffset": 300
+                },
+                "from": {
+                    "file": "G:\\AlarmReminder-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.2.1\\res\\values-w270dp-h560dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 413,
+                        "endColumn": 59,
+                        "endOffset": 468
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "G:\\Event Reminder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w270dp-h560dp-v13\\values-w270dp-h560dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "G:\\Event Reminder\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.2.1\\res\\values-w270dp-h560dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 68,
+                        "endOffset": 287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endColumn": 59,
+                    "endOffset": 179
+                },
+                "from": {
+                    "file": "G:\\Event Reminder\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.2.1\\res\\values-w270dp-h560dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 59,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 184,
+                    "endColumn": 60,
+                    "endOffset": 240
+                },
+                "from": {
+                    "file": "G:\\Event Reminder\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.2.1\\res\\values-w270dp-h560dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 352,
+                        "endColumn": 60,
+                        "endOffset": 408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 245,
+                    "endColumn": 59,
+                    "endOffset": 300
+                },
+                "from": {
+                    "file": "G:\\Event Reminder\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.2.1\\res\\values-w270dp-h560dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 413,
+                        "endColumn": 59,
+                        "endOffset": 468
+                    }
+                }
+            }
+        ]
+    }
+]

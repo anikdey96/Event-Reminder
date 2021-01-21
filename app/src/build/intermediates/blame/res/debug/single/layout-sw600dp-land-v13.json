@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\Event Reminder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-land-v13\\mdtp_date_picker_dialog.xml",
+        "source": "G:\\Event Reminder\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.2.1\\res\\layout-sw600dp-land-v13\\mdtp_date_picker_dialog.xml"
+    },
+    {
+        "merged": "G:\\AlarmReminder-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-land-v13\\mdtp_date_picker_dialog.xml",
+        "source": "G:\\AlarmReminder-master\\app\\build\\intermediates\\exploded-aar\\com.wdullaer\\materialdatetimepicker\\1.2.1\\res\\layout-sw600dp-land-v13\\mdtp_date_picker_dialog.xml"
+    }
+]
